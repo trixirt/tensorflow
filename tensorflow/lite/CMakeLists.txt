@@ -562,7 +562,7 @@ target_link_libraries(tensorflow-lite
     absl::variant
     farmhash
     fft2d_fftsg2d
-    flatbuffers::flatbuffers
+    flatbuffers
     gemmlowp
     ruy::ruy
     pthreadpool
